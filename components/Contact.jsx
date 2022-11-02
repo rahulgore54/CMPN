@@ -21,7 +21,7 @@ const Contact = () => {
                                 <Image className='rounded-xl hover:scale-105 ease-in duration-300' src={contactImg} alt='' />
                             </div>
                             <div>
-                                <h2 className='py-2'>Rahul Gore</h2>
+                                <h2 className='py-2'>Vaishnavi Patil</h2>
                                 <p>Front-End Developer</p>
                                 <p className='py-4'>I am available for freelance or full-time positions. Contact me and let's talk.</p>
                             </div>
